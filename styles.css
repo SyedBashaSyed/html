@@ -1,0 +1,79 @@
+.title{
+    background-color:burlywood;
+}
+#subtitle{
+    font-style: italic;
+    color: red;
+    background-color: blue;
+}
+.box-model{
+    padding-lef
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Box Model: margin, padding, border, width, height, box-sizing
+
+
+
+Flexbox: display: flex, justify-content, align-items
+
+
+
+Selectors:
+
+
+
+Type selector (p)
+
+
+
+Class selector (.class-selector)
+
+
+
+ID selector (#id-selector)
+
+
+
+Attribute selector ([data-type="custom"])
+
+
+
+Pseudo-classes: :hover
+
+
+
+Pseudo-elements: ::before, ::after
+
+
+
+Grid Layout: display: grid, grid-template-columns, gap
+
+
+
+Text Styles: color, font-size, text-transform, font-style
+
+
+
+Background Colors */
